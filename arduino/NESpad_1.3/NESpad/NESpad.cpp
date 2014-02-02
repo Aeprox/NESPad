@@ -23,7 +23,7 @@
 */
 
 #include "NESpad.h"
-#include "WProgram.h"
+#include "Arduino.h"
 
 // change the next three lines if necessary
 // arduino pins and their connection to the nes joystick
